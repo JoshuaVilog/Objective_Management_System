@@ -441,7 +441,8 @@ function setColorDepartment(id){
         {a: "15", b:"#E799A3",}, //PLANNING
 
 
-        // {a: "7", b:"#FF6347",}, //ENGINEER
+        {a: "7", b:"#FF6347",}, //ENGINEER
+        {a: "12", b:"#C48793",}, //SPA
         {a: "6", b:"#00ffff",}, // QM
         {a: "22", b:"#ffff99",}, // MANCOM
     ]
